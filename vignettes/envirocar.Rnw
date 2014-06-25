@@ -35,11 +35,24 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
 
-\hl{TODO: add short introduction about enviroCar project from the website}
+\hl{TODO: add short introduction about enviroCar project from the website, 
 
-\hl{TODO: add statement about license of eC data and link to relevant website}
+The enviroCaR project is an initiative of xxx wich is inside the so called citizen science field. The aim of citizens science is to
+invite citizens to get involved in science project , helping them to collect data. EnviroCaR approaches the interests of fuel consumption,
+CO2, noise in order to obtain data and alayse it to have more statistics that can help the local authorities, and the scientist to plann better 
+strategie towards a more sustainable mobility.
+The project is an open platform, its is easy to use and fun for those that want to collaborate and be part of a community, they just need to 
+use a sensor in you car and then access the information in by using and Smartphone App. }
 
-\hl{TODO: add links to website and documentation}
+\hl{TODO: add statement about license of eC data and link to relevant website. 
+- Users and you, and also the friends you have added can see the data. 
+
+\hl{TODO: 
+- If you are interested in participate as a scientist or citizen, please visit their website: https://envirocar.org/about.php
+- If Want to know about the team activities, check this site: http://52north.org/about/other-activities/envirocar
+- Follos us in the media @enviroCar_org or in Facebook by searching enviroCar
+- If you want to help us improve and develope, go to the open code in github project enviroCaR}
+}
 
 \hl{TODO: add enviroCar logo (locally from within package as pdf, see how it is done at https://github.com/edzer/trajectories/tree/master/vignettes}
 
